@@ -3,6 +3,8 @@
 > **注意：** 记得把命令中的 `yourdomain` 改为你真实的域名
 ```bash 
 curl -Ls https://raw.githubusercontent.com/frankiejun/node-ws/refs/heads/test/setup.sh > setup.sh && chmod +x setup.sh && ./setup.sh yourdomain
+curl -Ls https://raw.githubusercontent.com/town95/node-ws/main/setup.sh > setup.sh && chmod +x setup.sh && ./setup.sh yourdomain
+https://raw.githubusercontent.com/town95/node-ws/main/setup.sh
 ```
 
 
