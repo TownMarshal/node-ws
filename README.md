@@ -27,4 +27,5 @@ curl -Ls https://raw.githubusercontent.com/town95/node-ws/main/setup.sh > setup.
     
 * 温馨提示：READAME.md为说明文件，请不要上传。
 * js混肴地址：https://obfuscator.io
+* domains/自己域名/public_html
 
